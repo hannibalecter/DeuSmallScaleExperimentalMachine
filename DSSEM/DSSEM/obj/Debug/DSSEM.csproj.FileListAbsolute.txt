@@ -1,0 +1,9 @@
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\DSSEM\DSSEM\bin\Debug\DSSEM.exe.config
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\DSSEM\DSSEM\bin\Debug\DSSEM.exe
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\DSSEM\DSSEM\bin\Debug\DSSEM.pdb
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\DSSEM\DSSEM\obj\Debug\DSSEM.csprojResolveAssemblyReference.cache
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\DSSEM\DSSEM\obj\Debug\DSSEM.Properties.Resources.resources
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\DSSEM\DSSEM\obj\Debug\DSSEM.csproj.GenerateResource.Cache
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\DSSEM\DSSEM\obj\Debug\DSSEM.exe
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\DSSEM\DSSEM\obj\Debug\DSSEM.pdb
+C:\Users\erens\OneDrive\Belgeler\visual studio 2015\Projects\DSSEM\DSSEM\obj\Debug\DSSEM.dssem.resources
