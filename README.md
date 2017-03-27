@@ -12,15 +12,13 @@
   
    Should show computer operations and their micro operations.
   
-   Should support instruction set shown in Table 1.
-  
    Should switch between binary / hexadecimal /octal / decimal codes.
   
    Exporting hex or mif file of the machine code (hex code or binary code).
   
    User friendly, efficient Graphical User Interface(GUI).
   
-  The basic computer DSSEM has 6 registers and 3 memory segments ( Figure 1). Registers are AR, DR, PC, IR, SP, AC. The memory has code segment, data segment and stack segment.
+  The basic computer DSSEM has 6 registers and 3 memory segments. Registers are AR, DR, PC, IR, SP, AC. The memory has code segment, data segment and stack segment.
   In the input file (asm or basm file) there will be assembly(symbolic) codes. The assembly language of the basic computer is defined by a set of rules. An example for assembly code is given in the Code 1. Each line of the language has three columns called fields (Mano, 1993).
   
   1. The label field may be empty or it may specify a symbolic address. It is followed by a comma(,).
