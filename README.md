@@ -32,23 +32,23 @@
   
   example file: 
   
-      ORG C 2   %Origin of code segment 
+      ORG C 2       %Origin of code segment 
       
-      LDA A     %Load operand from location A 
+      LDA A         %Load operand from location A 
       
-      ADD B     %Add operand from location B 
+      ADD B         %Add operand from location B 
       
-      STA S     %Store sum in location S 
+      STA S         %Store sum in location S 
       
-      HLT       %Halt computer 
+      HLT           %Halt computer 
       
-      ORG D 0   %Origin of data segment  
+      ORG D 0       %Origin of data segment  
       
-  A,  DEC 6     %Decimal operand  
+      A,  DEC 6     %Decimal operand  
   
-  B,  HEX 4     %Hexadecimal operand  
+      B,  HEX 4     %Hexadecimal operand  
   
-  S,  DEC 0     %Sum stored in location S 
+      S,  DEC 0     %Sum stored in location S 
   
-      END       %End of symbolic program
+      END          %End of symbolic program
       
