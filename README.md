@@ -3,13 +3,21 @@
   In this project, you are expected to design a simulator for the basic computer called DEU Small Scale Experimental Machine (DSSEM) which is similar to Mano’s Computer. The main goal is converting assembly code to the corresponding machine code. You will write a windows application program to design the simulator by using C#. The simulator should have the following specifications:
 
    Reading and parsing the input files that include assembly code.
+  
    It should run the program step by step showing the phases of instruction cycle (fetching, decoding, effective address calculation and execution).
+  
    Generating label table and memory content table.
+  
    Should show contents of the registers and memory segments.
+  
    Should show computer operations and their micro operations.
+  
    Should support instruction set shown in Table 1.
+  
    Should switch between binary / hexadecimal /octal / decimal codes.
+  
    Exporting hex or mif file of the machine code (hex code or binary code).
+  
    User friendly, efficient Graphical User Interface(GUI).
   
   The basic computer DSSEM has 6 registers and 3 memory segments ( Figure 1). Registers are AR, DR, PC, IR, SP, AC. The memory has code segment, data segment and stack segment.
